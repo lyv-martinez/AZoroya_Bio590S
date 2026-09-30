@@ -1,5 +1,4 @@
-specimen_id,species_binomial,collection_date,latitude,longitude,h
-indlimb_length_mm,notes
+specimen_id,species_binomial,collection_date,latitude,longitude,hindlimb_length_mm,notes
 SPEC-001,Anolis carolinensis,2026-05-12,35.994,-78.898,24.5,Adult
 male found on oak tree
 SPEC-002,Anolis sagrei,2026-05-12,35.995,-78.897,22.1,Invasive
