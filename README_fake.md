@@ -7,3 +7,4 @@ organism.
 degrees.
 * `hindlimb_length_mm`: Length of the right hindlimb measured in
 millimeters (`NA` indicates missing data).
+Live Data Access: https://raw.githubusercontent.com/lyv-martinez/AZoroya_Bio590S/refs/heads/main/speciman_log.csv
