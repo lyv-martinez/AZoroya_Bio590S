@@ -1,7 +1,7 @@
 # AZoroya_Bio590S
 A repository for the database I will be creating for Bio590S at Duke University
 
-## My Question and Hypothesese
+## My Question and Hypotheses
 Question: In chelicerates with multiple eye pairs, unequal eye pairs suggest one direction of view matters more than another, for either a specific task or direction of light. For example, the marine light level shifts with depth from diffuse downwelling light to bioluminescent flashes that come from distinct directions (Warrant & Locket 2004), and visual pursuit hunters in spiders invest disproportionately in particular eye pairs instead of enlarging all eyes equally (Chong et al. 2024; Pande et al. 2026). Given this, is size asymmetry between the anterior and posterior eye pairs in pycnogonids greater in deep-sea species and in species that feed on mobile prey? 
 
 Hypothesis 1 (light level): The ratio of anterior to posterior lens diameter will increase with depth. 
