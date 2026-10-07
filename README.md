@@ -8,7 +8,7 @@ Hypothesis 1 (light level): The ratio of anterior to posterior lens diameter wil
 
 Hypothesis 2 (feeding ecology): Species that feed on mobile prey will have a higher anterior-to-posterior lens diameter ratio than species that feed on sessile prey.
 ## Data Dictionary (metadata)
-* 'depth':	only for marine taxa, noted as meters below sea level
+* 'min and max depth':	only for marine taxa, noted as meters below sea level
 * 'depth_source':	figure, paper, museum, personal
 * 'light_environment':	photopic, scotopic
 * 'foraging_ecology':	pursuit, sessile
@@ -18,10 +18,12 @@ Hypothesis 2 (feeding ecology): Species that feed on mobile prey will have a hig
 * 'trophic_breadth':	generalist, specialist
 * 'body_length':	for pycnogonids this is trunk + cephalon length. for opiliones this is cephalothorax + abdomen length. noted as mm
 * 'bl_source, th_source, and ld_source': figure, paper, personal
-* 'tubercle_height':	length of tubercle from base of cephalon/cephalothorax to the furthest tip of eye hill/ocular tubercle/ocularium, noted as mm
+* 'tubercle_shape': shape of the tubercle (e.g. dome, conical)
+* 'tubercle_height':  length of tubercle from base of cephalon/cephalothorax to the furthest tip of eye hill/ocular tubercle/ocularium, noted as mm
 * 'eye_number':	0,2,4
 * 'ant_lens_diameter':	longest axis of anterior lens diameter. this is the single eye pair in non-pycnogonids. notes as mm
 * 'post_lens_diameter':	longest axis of posterior lens diameter, noted as mm
+* 'confidence': my confidence in how accurate the measurements are (poor, moderate, good, excellent)
 * 'metric_conversion_yn':	did we have to convert to our unit? yes or no (y/n)
 	
 <img width="32766" height="465" alt="image" src="https://github.com/user-attachments/assets/718631cf-fcd0-4489-8b7f-30ffbc11ae4f" />
