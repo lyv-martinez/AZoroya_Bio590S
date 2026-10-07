@@ -1,5 +1,5 @@
 order,family,genus,species,min.depth,max.depth,depth_source,light_environment,foraging_ecology,diet,general_eating_behavior,specific_eating_behavior,trophic_breadth,body_length,bl_source,tubercle_shape,tubercle_height,th_source,eye_number,ant_lens_diameter,post_lens_diameter,ld_source,confidence,metric_conversion_yn,references,references_2 
-Pycnogonida,Ammotheidae,Achelia,alaskensis,0,180,,,,Medusae,carnivore,cnidarivore,,10,figure,dome,0.16,figure,4,0.04,0.04,figure,moderate,N,aalaskensis1,aalaskensis2
+Pycnogonida,Ammotheidae,Achelia,alaskensis,0,180,,,,Medusae,carnivore,cnidarivore,,1,figure,dome,0.16,figure,4,0.04,0.04,figure,moderate,N,aalaskensis1,aalaskensis2
 Pycnogonida,Ammotheidae,Achelia,chelata,,,,,,Mollusks,carnivore,molluscivore ,,,,,,,,,,,,,,
 Pycnogonida,Ammotheidae,Achelia,echinata,,,,,,Algae; Bryozoans; Detritus; Hydroids,omnivore,"algivore, carnivore, detritivore, cnidarivore",,,,,,,,,,,,,aechinata,
 Pycnogonida,Ammotheidae,Achelia,transfugoides,1,30,,,,Hydroids,carnivore,cnidarivore,,0.92,figure,low conical,0.074,drawing,4,0.025,0.025,drawing,poor,N,atransfugoides,
@@ -28,7 +28,7 @@ Pycnogonida,Callipallenidae,Stylopallene,longicauda,,,,,,Bryozoans,carnivore,car
 Pycnogonida,Colossendeidae,Colossendeis,colossea,,,,,,Anthozoa,carnivore,cnidarivore,,,,,,,,,,,,,,
 Pycnogonida,Colossendeidae,Colossendeis,megalonyx,,,,,,Corals; Hydroids; Mollusks; others,carnivore,"corallivore, cnidarivore, molluscivore ",,,,,,,,,,,,,,
 Pycnogonida,Colossendeidae,Colossendeis,minuta,,,,,,Anthozoa,carnivore,cnidarivore,,,,,,,,,,,,,,
-Pycnogonida,Colossendeidae,Colossendeis,robusta,,,,,,Corals; Hydroids; Mollusks; others,carnivore,"corallivore, cnidarivore, molluscivore ",,14,figure,dome,1.6,figure,4,0.5,0.4,figure,good,,crobusta,
+Pycnogonida,Colossendeidae,Colossendeis,robusta,100,1500,,,,Corals; Hydroids; Mollusks; others,carnivore,"corallivore, cnidarivore, molluscivore ",,14,figure,dome,1.6,figure,4,0.5,0.4,figure,good,,crobusta,
 Pycnogonida,Colossendeidae,Colossendeis,scotti,,,,,,others,,,,,,,,,,,,,,,,
 Pycnogonida,Colossendeidae,Decolopoda,australis,,,,,,Anthozoa; Detritus,omnivore,"cnidarivore, detritivore",,,,,,,,,,,,,,
 Pycnogonida,Endeinae,Endeis,biseriata,,,,,,Corals,carnivore,corallivore,,,,,,,,,,,,,,
