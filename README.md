@@ -21,12 +21,13 @@ Hypothesis 2 (feeding ecology): Species that feed on mobile prey will have a hig
 4. Species with no usable image of the ocular tubercle are marked "cannot find" in the notes column.
 
 ## Inclusion/Exclusion Criteria
-* **Included in the database:** pycnogonid species with at least one diet record in Dietz et al. (2018).
+* **Included in the database:**
+	* pycnogonid species with at least one diet record in Dietz et al. (2018).
+	* species with both anterior and posterior lens diameter measured.
 
-  * species with both anterior and posterior lens diameter measured.
-
-* **Excluded from eye analyses:** species with no usable image for measurements.
-				 species with no natural diet records (feeding on weird things in the lab do not count as a feeding ecology record)
+* **Excluded from eye analyses:**
+	* species with no usable image for measurements.
+	* species with no natural diet records (feeding on weird things in the lab do not count as a feeding ecology record)
 
 
 ## Measurement Protocol
@@ -48,7 +49,6 @@ Measurements were taken from published papers with Claude (Anthropic), following
 ## Data Dictionary (metadata)
 * 'order, family, genus, species':	taxonomy, following Dietz et al. (2018)
 * 'min and max depth':	only for marine taxa, noted as meters below sea level
-* 'depth_source':	figure, paper, museum, personal
 * 'light_environment':	photic, dysphotic, aphotic, or a range (e.g. photic to aphotic)
 * 'foraging_ecology':	sessile (feeds on attached prey), sedentary (feeds on slow-moving prey), pursuit (catches moving prey); mixed modes written as "sessile and sedentary"
 * 'diet':	varied, separated by semicolons - ex: bacteria, hydrozoan, bryozoan, diptera, snails, etc., etc.,
@@ -65,7 +65,7 @@ Measurements were taken from published papers with Claude (Anthropic), following
 * 'confidence': my confidence in how accurate the measurements are (poor, moderate, good, excellent). Measurements from drawings are poor; measurements from figures are moderate or good depending on image quality and scale bar
 * 'metric_conversion_yn':	did we have to convert to our unit? yes or no (y/n)
 * 'references, references_2':	reference keys for the sources of each species' measurements
-* 'ntes':	notes (e.g. "cannot find" when no usable image exists)
+* 'notes':	notes (e.g. "cannot find" when no usable image exists)
 
 
 <img width="32766" height="465" alt="image" src="https://github.com/user-attachments/assets/718631cf-fcd0-4489-8b7f-30ffbc11ae4f" />
