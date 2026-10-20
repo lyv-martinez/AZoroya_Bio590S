@@ -23,7 +23,7 @@ Hypothesis 2 (feeding ecology): Species that feed on mobile prey will have a hig
 ## Inclusion/Exclusion Criteria
 * **Included in the database:** pycnogonid species with at least one diet record in Dietz et al. (2018).
 
-  *species with both anterior and posterior lens diameter measured.
+  * species with both anterior and posterior lens diameter measured.
 
 * **Excluded from eye analyses:** species with no usable image for measurements.
 				 species with no natural diet records (feeding on weird things in the lab do not count as a feeding ecology record)
