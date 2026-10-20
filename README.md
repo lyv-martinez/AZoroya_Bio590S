@@ -67,5 +67,7 @@ Measurements were taken from published papers with Claude (Anthropic), following
 * 'references, references_2':	reference keys for the sources of each species' measurements
 * 'notes':	notes (e.g. "cannot find" when no usable image exists)
 
+## References
+* Dietz L, Dömel JS, Leese F, Lehmann T, Melzer RR. 2018. Feeding ecology in sea spiders (Arthropoda: Pycnogonida): what do we know? *Frontiers in Zoology* 15:7.
 
 <img width="32766" height="465" alt="image" src="https://github.com/user-attachments/assets/718631cf-fcd0-4489-8b7f-30ffbc11ae4f" />
