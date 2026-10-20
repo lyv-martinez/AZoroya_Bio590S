@@ -62,7 +62,7 @@ Measurements were taken from published papers with Claude (Anthropic), following
 * 'eye_number':	0,2,4
 * 'ant_lens_diameter':	longest axis of anterior lens diameter. this is the single eye pair in non-pycnogonids. notes as mm
 * 'post_lens_diameter':	longest axis of posterior lens diameter, noted as mm
-* 'confidence': my confidence in how accurate the measurements are (poor, moderate, good, excellent). Measurements from drawings are poor; measurements from figures are moderate or good depending on image quality and scale bar
+* 'confidence': my confidence in how accurate the measurements are (poor, moderate, good, excellent). Measurements from drawings are poor; measurements from figures are moderate or good depending on image quality and scale bar. Excellent are measurements taken from my own microscopic image.
 * 'metric_conversion_yn':	did we have to convert to our unit? yes or no (y/n)
 * 'references, references_2':	reference keys for the sources of each species' measurements
 * 'notes':	notes (e.g. "cannot find" when no usable image exists)
