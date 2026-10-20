@@ -1,4 +1,4 @@
-order,family,genus,species,min.depth,max.depth,depth_source,light_environment,foraging_ecology,diet,general_eating_behavior,specific_eating_behavior,trophic_breadth,body_length,bl_source,tubercle_shape,tubercle_height,th_source,eye_number,ant_lens_diameter,post_lens_diameter,ld_source,confidence,references,references_2 ,ntes
+order,family,genus,species,min_depth,max_depth,depth_source,light_environment,foraging_ecology,diet,general_eating_behavior,specific_eating_behavior,trophic_breadth,body_length,bl_source,tubercle_shape,tubercle_height,th_source,eye_number,ant_lens_diameter,post_lens_diameter,ld_source,confidence,references,references_2 ,notes
 Pycnogonida,Ammotheidae,Achelia,alaskensis,0,180,,photic,sessile,Medusae,carnivore,cnidarivore,specialist,1,figure,dome,0.16,figure,4,0.04,0.04,figure,moderate,aalaskensis1,aalaskensis2,
 Pycnogonida,Ammotheidae,Achelia,chelata,0,30,,photic,sessile,Mollusks,carnivore,molluscivore ,specialist,,,,,,,,,,,,,cannot find
 Pycnogonida,Ammotheidae,Achelia,echinata,0,30,,photic,sessile,Algae; Bryozoans; Detritus; Hydroids,omnivore,"algivore, carnivore, detritivore, cnidarivore",generalist,0.7,figure,conical,0.15,figure,4,0.025,0.025,figure,moderate,aechinata,,
@@ -23,7 +23,7 @@ Pycnogonida,Callipallenidae,Callipallene,brevirostris,0,40,,photic,sessile,Hydro
 Pycnogonida,Callipallenidae,Parapallene,australiensis,10,240,,photic,sessile,Hydroids,carnivore,cnidarivore,specialist,,,,,,,,,,,,,
 Pycnogonida,Callipallenidae,Pseudopallene,watsonae,N/A,10,,photic,sessile,Bryozoans,carnivore,carnivore,specialist,,,,,,,,,,,,,
 Pycnogonida,Callipallenidae,Stylopallene,longicauda,1,25,,photic,sessile,Bryozoans,carnivore,carnivore,specialist,,,,,,,,,,,,,
-Pycnogonida,Colossendeidae,Colossendeis,colossea,420,5200,,dysphptic to aphotic,sessile,Anthozoa,carnivore,cnidarivore,specialist,,,,,,,,,,,,,
+Pycnogonida,Colossendeidae,Colossendeis,colossea,420,5200,,dysphotic to aphotic,sessile,Anthozoa,carnivore,cnidarivore,specialist,,,,,,,,,,,,,
 Pycnogonida,Colossendeidae,Colossendeis,megalonyx,3,5000,,photic to aphotic,sessile to sedentary,Corals; Hydroids; Mollusks; others,carnivore,"corallivore, cnidarivore, molluscivore ",generalist,,,,,,,,,,,,,
 Pycnogonida,Colossendeidae,Colossendeis,minuta,2200,3000,,aphotic,sessile,Anthozoa,carnivore,cnidarivore,specialist,,,,,,,,,,,,,
 Pycnogonida,Colossendeidae,Colossendeis,robusta,100,1500,,photic to aphotic,sessile to sedentary,Corals; Hydroids; Mollusks; others,carnivore,"corallivore, cnidarivore, molluscivore ",generalist,14,figure,dome,1.6,figure,4,0.5,0.4,figure,good,crobusta,,
@@ -43,14 +43,14 @@ Pycnogonida,Nymphonidae,Nymphon,parasiticum**,20,150,,photic,sessile,Mollusks,ca
 Pycnogonida,Nymphonidae,Pentanymphon,antarcticum,3,3280,,photic to aphotic,sessile,Hydroids; others,carnivore,cnidarivore,generalist,,,,,,,,,,,,,
 Pycnogonida,Pallenopsidae,Bathypallenopsis,mollissima,900,1300,,aphotic,sessile,Corals,carnivore,corallivore,specialist,,,,,,,,,,,,,
 Pycnogonida,Pallenopsidae,Pallenopsis,cf. patagonica,3,4500,,photic to aphotic,sessile,Detritus,other,detritivore,specialist,,,,,,,,,,,,,
-Pycnogonida,Pallenopsidae,Pallenopsis,scoparia,600,1500,,dysphptic to aphotic,sessile,Medusae,carnivore,cnidarivore,specialist,,,,,,,,,,,,,
-Pycnogonida,Pallenopsidae,Pallenopsis,tritonis,340,3700,,dysphptic to aphotic,sessile,Medusae,carnivore,cnidarivore,specialist,,,,,,,,,,,,,
-Pycnogonida,Phoxichilidiidae,Anoplodactylus,californicus,0,40,,photic,sedentary and pursuit,Mollusk; brine shrimp,carnivore,molluscivore ,generalist,1.4,figure,conical,0.55,figure,4,0.1,0.1,,moderate,acalifornicus,,this one eats nudibranchs
+Pycnogonida,Pallenopsidae,Pallenopsis,scoparia,600,1500,,dysphotic to aphotic,sessile,Medusae,carnivore,cnidarivore,specialist,,,,,,,,,,,,,
+Pycnogonida,Pallenopsidae,Pallenopsis,tritonis,340,3700,,dysphotic to aphotic,sessile,Medusae,carnivore,cnidarivore,specialist,,,,,,,,,,,,,
+Pycnogonida,Phoxichilidiidae,Anoplodactylus,californicus,0,40,,photic,sedentary and pursuit,Mollusk; brine shrimp,carnivore,molluscivore ,generalist,1.4,figure,conical,0.55,figure,4,0.1,0.1,figure,moderate,acalifornicus,,this one eats nudibranchs
 Pycnogonida,Phoxichilidiidae,Anoplodactylus,evansi,0,30,,photic,sedentary,Annelids; Hydroids; Mollusks,carnivore,"carnivore, cnidarivore, molluscivore",generalist,,,,,,,,,,,,,
 Pycnogonida,Phoxichilidiidae,Anoplodactylus,lentus,0,576,,photic to dysphotic,sessile,Hydroids,carnivore,cnidarivore,specialist,,,,,,,,,,,,,
 Pycnogonida,Phoxichilidiidae,Anoplodactylus,longiceps,0,10,,photic,sessile,Mollusks,carnivore,molluscivore ,specialist,,,,,,,,,,,,,
 Pycnogonida,Phoxichilidiidae,Anoplodactylus,ophiurophilus,0,30,,photic,sedentary,Echinoderms,carnivore,carnivore,specialist,,,,,,,,,,,,,
-Pycnogonida,Phoxichilidiidae,Anoplodactylus,petiolatus,0,1520,,photic to aphotic,pursuit and sedentary,Annelids; Hydroids; Medusae; Mollusks; copepods,carnivore,"carnivore, cnidarivore, molluscivore",generalist,0.8,figure,conical,0.16,paper,4,0.065,0.065,paper,good,apetiolatus1,apetiolatus2,
+Pycnogonida,Phoxichilidiidae,Anoplodactylus,petiolatus,0,1520,,photic to aphotic,sedentary and pursuit,Annelids; Hydroids; Medusae; Mollusks; copepods,carnivore,"carnivore, cnidarivore, molluscivore",generalist,0.8,figure,conical,0.16,paper,4,0.065,0.065,paper,good,apetiolatus1,apetiolatus2,
 Pycnogonida,Phoxichilidiidae,Anoplodactylus,pygmaeus,0,10,,photic,sessile,Hydroids,carnivore,cnidarivore,specialist,0.6,figure,conical,0.14,figure,4,0.05,0.05,figure,moderate,apygmaeus,apygmaeus2,
 Pycnogonida,Phoxichilidiidae,Anoplodactylus,stictus,20,220,,photic,sessile,Bryozoans; Hydroids,carnivore,"carnivore, cnidarivore",generalist,,,,,,,,,,,,,
 Pycnogonida,Phoxichilidiidae,Pycnosomia,asterophila,370,410,,dysphotic,sedentary,Echinoderms,carnivore,carnivore,specialist,,,,,,,,,,,,,
