@@ -47,10 +47,10 @@ Measurements were taken from published papers with Claude (Anthropic), following
 * Species are treated as independent; phylogeny is not yet accounted for.
 
 ## Data Dictionary (metadata)
-* 'order, family, genus, species':	taxonomy, following Dietz et al. (2018)
-* 'min and max depth':	only for marine taxa, noted as meters below sea level
-* 'light_environment':	photic, dysphotic, aphotic, or a range (e.g. photic to aphotic)
-* 'foraging_ecology':	sessile (feeds on attached prey), sedentary (feeds on slow-moving prey), pursuit (catches moving prey); mixed modes written as "sessile and sedentary"
+* 'order, family, genus, species' :	taxonomy, following Dietz et al. (2018)
+* 'min and max depth' :	only for marine taxa, noted as meters below sea level
+* 'light_environment' :	photic, dysphotic, aphotic, or a range (e.g. photic to aphotic)
+* 'foraging_ecology' :	sessile (feeds on attached prey), sedentary (feeds on slow-moving prey), pursuit (catches moving prey); mixed modes written as "sessile and sedentary"
 * 'diet':	varied, separated by semicolons - ex: bacteria, hydrozoan, bryozoan, diptera, snails, etc., etc.,
 * 'general_eating_behavior':	carnivore, herbivore, omnivore (broadest definition)
 * 'specific_eating_behavior':	bacteriavore, detritivore, planktonivore, frugivore, etc., etc.,
